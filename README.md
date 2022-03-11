@@ -211,7 +211,7 @@ cp ~/android/out/target/product/starlte/system/app/messaging.apk ~/firmware/mess
 ## Build a kernel
 
 ### Preparing source files
-Navigate to https://opensource.samsung.com/uploadSearch?searchValue=g960f and download the latest kernel.
+Navigate to [opensource.samsung.com](https://opensource.samsung.com/uploadSearch?searchValue=g960f) and download the latest kernel.
 
 ```bash
 mkdir -p ~/android/kernel/samsung
