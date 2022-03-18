@@ -379,3 +379,8 @@ unzip -j ~/firmware/Odin3-v3.14.1.zip "Odin3.ini" "Odin3 v3.14.1.exe" -d ~/firmw
 
 Flash the ~/firmware/AP_CUSTOM.tar.md5 file using Odin
 ![](./pics/odin.png)
+
+<br />
+<br />
+ 
+[This article on Medium](https://ruslanbay.medium.com/how-to-build-android-13-for-galaxy-s9-from-scratch-d8e5888b68a4)
